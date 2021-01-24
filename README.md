@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
+
 <h1 align="center">Hi 👋, I'm Captain!!</h1>
 <h3 align="center">I'm a high school student!!</h3>
 
@@ -9,7 +11,7 @@
 
 <h3>Language!!</h3>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <i class="devicon-c-plain"></i>
   &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   &nbsp;
