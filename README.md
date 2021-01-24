@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Captain!!</h1>
 <h3 align="center">I'm a high school student!!</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **mynameisjeff7614@gmail.com**
 
