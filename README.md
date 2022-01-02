@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="devicon.min.css">
 
 <h1 align="center">Hi 👋, I'm Captain!!</h1>
-<h3 align="center">I'm a high school student!!</h3>
+<h3 align="center">I'm a high school student!! (almost graduated)</h3>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **mynameisjeff7614@gmail.com**
 
