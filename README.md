@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="devicon.min.css">
 
 <h1 align="center">Hi 👋, I'm Captain!!</h1>
-<h3 align="center">I'm a high school student!! (almost graduated)</h3>
+<h3 align="center">I'm a college student!! (intania 106)</h3>
 
 - 🌱 I’m currently learning **NextJS**
 
